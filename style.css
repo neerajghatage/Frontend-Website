@@ -589,8 +589,8 @@ span {
     height: 130px;
     width: 8.66%;
     position: relative;
-    top: 130px;
-    left: 520px;
+    top: 265px;
+    right: 765px;
     z-index: 0;
 }
 .kl {
@@ -598,7 +598,7 @@ span {
     width: 8.66%;
     position: relative;
     top: 130px;
-    left: 100px;
+    left: 235px;
     z-index: 0;
 }
 .b6 {
